@@ -7,7 +7,6 @@ The purpose of this homework was to create an application that can be used to wr
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Expresss.js</li>
-  <li>
 </ul>
 
 <h3>Prerequisites</h3>
@@ -20,6 +19,8 @@ The purpose of this homework was to create an application that can be used to wr
 
 <h3>Note Taker Criteria</h3>
 <li>As a user, I want ot be able to write and save notes, and then be able to delete said notes</li>
+
+<hr>
 
 <center><img src="notetaker1.png"></center>
 <center><img src="notetaker2.png"></center>
