@@ -18,7 +18,7 @@ The purpose of this homework was to create an application that can be used to wr
 </ul>
 
 <h3>Note Taker Criteria</h3>
-<li>As a user, I want ot be able to write and save notes, and then be able to delete said notes</li>
+<li>As a user, I want to be able to write and save notes, and then be able to delete said notes</li>
 
 <hr>
 
