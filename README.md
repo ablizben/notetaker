@@ -6,7 +6,7 @@ The purpose of this homework was to create an application that can be used to wr
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Expresss.js</li>
+  <li>Express.js</li>
 </ul>
 
 <h3>Prerequisites</h3>
